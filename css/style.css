@@ -1,8 +1,16 @@
+* {
+  font-family: "Lora", serif;
+}
+
 .bg-black {
   background-color: rgba(14, 14, 14, 1);
 }
 .carousel-caption {
   top: 200px;
+}
+
+.img-size {
+  height: 100vh;
 }
 
 .bg-grey {
