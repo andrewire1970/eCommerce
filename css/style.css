@@ -5,12 +5,14 @@
 .bg-black {
   background-color: rgba(14, 14, 14, 1);
 }
+
 .carousel-caption {
   top: 200px;
 }
 
-.img-size {
+.header-tot {
   height: 100vh;
+  min-height: 100vh;
 }
 
 .bg-grey {
