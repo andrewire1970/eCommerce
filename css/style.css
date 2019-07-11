@@ -16,6 +16,11 @@ a {
   padding-top: 1rem;
 }
 
+.half-black {
+  background: rgba(0, 0, 0, 0.5);
+  max-height: 210px;
+}
+
 .bg-black {
   background-color: rgba(14, 14, 14, 1);
 }
