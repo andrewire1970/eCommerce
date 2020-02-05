@@ -7,6 +7,11 @@ a {
   text-decoration: none;
 }
 
+.demo a {
+  text-decoration: none;
+  color: #fff;
+}
+
 /* need to add media to make line height 1.5 on smaller screen */
 .demo {
   font-family: "Domine", serif;
